@@ -1,0 +1,33 @@
+.menu{
+    background-color: #0d1b2a; /* Green */
+    position: fixed;
+    top: 0;
+    width: 20%;
+    height: 100%;
+    padding-top: 20px;
+    left: 0;
+
+}
+.menu a {
+    padding: 10px 15px;
+    font-size: 14px;
+    color: #D1D5DB;
+    display: block;
+    text-align:start;
+    font-family: poppins;
+    text-decoration: none;
+}
+.menu a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    transition: 0.6s;
+}
+.menu h1 {
+    font-family: poppins;
+    color: #10B981;
+    text-align: start;
+    font-size: 19px; 
+    padding: 10px 15px;   
+   
+}
